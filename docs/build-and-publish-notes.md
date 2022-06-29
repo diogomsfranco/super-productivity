@@ -1,4 +1,4 @@
-# Publish notes
+# Publish Notes
 
 Look for AppDataForScreenshots.json
 
